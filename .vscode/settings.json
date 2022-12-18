@@ -3,5 +3,11 @@
     "editor.fontSize": 12,
     "editor.fontFamily": "'Fira Code'",
     "editor.codeLensFontFamily": "'Fira Code'",
-    "editor.inlayHints.fontFamily": "'Fira Code'"
+    "editor.inlayHints.fontFamily": "'Fira Code'",
+    "cSpell.words": [
+        "seguraça",
+        "símples",
+        "usano",
+        "velociade"
+    ]
 }
