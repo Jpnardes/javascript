@@ -10,21 +10,29 @@
 <body>
 
     <header>
-        <h1>Título</h1>
+        <h1>Vamos Contar</h1>
     </header>
 
     <section>
-        <div>
-            Testando...
-        </div>
+        <div id="dados">
+            <p>Início: <input type="number" name="inicio" id="txti">
 
-        <div>
-            Olá!
+            </p>
+            <p>Fim: <input type="number" name="fim" id="txtn">
+
+            </p>
+            <p>Passo: <input type="number" name="passo" id="txtp">
+            </p/>
+            <p><input type="button" value="Contar" onclick="contar()"></p>
+
+        </div>
+        <div id="res">
+            Preparando Contagem
         </div>
     </section>
 
     <footer>
-        <p>&copy; CursoemVídeo</p>
+        <p>&copy; CursuoemVídeo</p>
     </footer>
 
     <script src="script.js"></script>
